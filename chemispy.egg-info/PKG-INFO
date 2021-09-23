@@ -1,0 +1,25 @@
+Metadata-Version: 2.1
+Name: chemispy
+Version: 1.0.0
+Summary: A library for using chemistry in python
+Home-page: https://github.com/TechPenguineer/chem.py
+Author: Tech Penguineer
+Author-email: techpenguineer@gmail.com
+License: MIT
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Description-Content-Type: text/markdown
+
+<p align="center" style="background=#333">
+    <img src="./public/logo.png" width="300px">
+    <h1 align="center">Chemistry in python</h1>
+</p>
+
+# Usage
+
+```py
+from chempy import *
+```
+

@@ -1,0 +1,6 @@
+README.md
+setup.py
+chemispy.egg-info/PKG-INFO
+chemispy.egg-info/SOURCES.txt
+chemispy.egg-info/dependency_links.txt
+chemispy.egg-info/top_level.txt
