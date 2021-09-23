@@ -1,3 +1,4 @@
 from periodic import *
 
-print(LITHIUM_ELEMENT.EPS)
+x = query.query_atomic_number(50)
+print(x)
