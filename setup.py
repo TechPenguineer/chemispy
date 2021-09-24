@@ -23,7 +23,7 @@ setup(
         "Programming Language :: Python :: 3",
         "Programming Language :: Python :: 3.7",
     ],
-    packages=[],
+    packages=["chemispy", "chemispy.utils", "chemispy.elements"],
     include_package_data=True,
     install_requires=["PyQt5"],
     entry_points={
