@@ -1,9 +1,9 @@
 Metadata-Version: 2.1
 Name: chemispy
-Version: 1.1.0
+Version: 1.1.1
 Summary: A library for using chemistry in python
 Home-page: https://github.com/TechPenguineer/chemispy
-Author: Tech Penguineer
+Author: TechPenguineer
 Author-email: techpenguineer@gmail.com
 License: MIT
 Platform: UNKNOWN

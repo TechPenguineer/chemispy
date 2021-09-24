@@ -123,7 +123,7 @@ class query:
     def list_types():
         return atomic_number_query.elements
     def query_atomic_number( atomic_number = 1):
-        atomic_query_range = range(1,119)
+        atomic_query_range = range(1,len(atomic_number_query.elements)+1)
         if atomic_number not in atomic_query_range:
             print("Chem: Atomic number is not within the atomic query range!")
             exit(1)
