@@ -1,2 +1,2 @@
-from chemispy.chemispy import chemispy
-
+from chemispy.elements import *
+from chemispy.utils import *

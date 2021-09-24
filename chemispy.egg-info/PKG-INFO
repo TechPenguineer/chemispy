@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: chemispy
-Version: 1.0.6
+Version: 1.0.7
 Summary: A library for using chemistry in python
 Home-page: https://github.com/TechPenguineer/chem.py
 Author: Tech Penguineer
@@ -17,9 +17,28 @@ Description-Content-Type: text/markdown
     <h1 align="center">Chemistry in python</h1>
 </p>
 
+# Installation
+```bat
+pip install chemispy
+```
+
 # Usage
 
 ```py
-from chempy import *
+from chemispy import *
 ```
+
+### Atomic Number Query
+
+```python
+query.query_atomic_number(1)
+```
+*Return's the name of the element corresponding to the atomic number*
+
+### Elements List
+
+```python
+print(query.list_types())
+```
+*Returns a list of all elements (Used mostly for debugging)*
 
