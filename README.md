@@ -4,7 +4,9 @@
 </p>
 
 # Installation
-`pip install chemispy`
+```bat
+pip install chemispy
+```
 
 # Usage
 
