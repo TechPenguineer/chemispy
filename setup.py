@@ -10,7 +10,7 @@ README = (HERE / "README.md").read_text()
 # This call to setup() does all the work
 setup(
     name="chemispy",
-    version="1.0.7",
+    version="1.0.8",
     description="A library for using chemistry in python",
     long_description=README,
     long_description_content_type="text/markdown",
@@ -23,9 +23,9 @@ setup(
         "Programming Language :: Python :: 3",
         "Programming Language :: Python :: 3.7",
     ],
-    packages=["pyqt5"],
+    packages=[],
     include_package_data=True,
-    install_requires=[],
+    install_requires=["PyQt5"],
     entry_points={
       
     },

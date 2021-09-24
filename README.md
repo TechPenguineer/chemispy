@@ -1,5 +1,5 @@
-<p align="center" style="background=#333">
-    <img src="https://github.com/TechPenguineer/chem.py/blob/main/public/logo.png" width="300px">
+<p align="center" >
+    <img src="https://raw.githubusercontent.com/TechPenguineer/chem.py/main/public/logo.png" width="300px">
     <h1 align="center">Chemistry in python</h1>
 </p>
 
