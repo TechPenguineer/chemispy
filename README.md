@@ -20,3 +20,10 @@ from chemispy import *
 query.query_atomic_number(1)
 ```
 *Return's the name of the element corresponding to the atomic number*
+
+### Elements List
+
+```python
+print(query.list_types())
+```
+*Returns a list of all elements (Used mostly for debugging)*
