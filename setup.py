@@ -1,5 +1,5 @@
 import pathlib
-from setuptools import setup
+from setuptools import find_packages, setup
 
 # The directory containing this file
 HERE = pathlib.Path(__file__).parent
@@ -23,7 +23,7 @@ setup(
         "Programming Language :: Python :: 3",
         "Programming Language :: Python :: 3.7",
     ],
-    packages=["chemispy", "chemispy.utils", "chemispy.elements"],
+    packages=["chemispy","chemispy.elements","chemispy.utils"],
     include_package_data=True,
     install_requires=["PyQt5"],
     entry_points={

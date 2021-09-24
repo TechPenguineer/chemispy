@@ -27,3 +27,10 @@ query.query_atomic_number(1)
 print(query.list_types())
 ```
 *Returns a list of all elements (Used mostly for debugging)*
+
+### Custom Elements
+```python
+from chemispy.utils.atomic_number_query import atomic_number_query
+
+atomic_number_query.elements.append("ELEMENT_119")
+```
