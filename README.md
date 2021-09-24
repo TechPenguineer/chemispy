@@ -13,3 +13,10 @@ pip install chemispy
 ```py
 from chemispy import *
 ```
+
+### Atomic Number Query
+
+```python
+query.query_atomic_number(1)
+```
+*Return's the name of the element corresponding to the atomic number*
