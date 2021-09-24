@@ -3,8 +3,11 @@
     <h1 align="center">Chemistry in python</h1>
 </p>
 
+# Installation
+`pip install chemispy`
+
 # Usage
 
 ```py
-from chempy import *
+from chemispy import *
 ```
