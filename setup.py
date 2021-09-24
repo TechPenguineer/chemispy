@@ -10,12 +10,12 @@ README = (HERE / "README.md").read_text()
 # This call to setup() does all the work
 setup(
     name="chemispy",
-    version="1.0.8",
+    version="1.1.1",
     description="A library for using chemistry in python",
     long_description=README,
     long_description_content_type="text/markdown",
-    url="https://github.com/TechPenguineer/chem.py",
-    author="Tech Penguineer",
+    url="https://github.com/TechPenguineer/chemispy",
+    author="TechPenguineer",
     author_email="techpenguineer@gmail.com",
     license="MIT",
     classifiers=[

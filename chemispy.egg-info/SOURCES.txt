@@ -1,7 +1,13 @@
 README.md
 setup.py
+chemispy/__init__.py
 chemispy.egg-info/PKG-INFO
 chemispy.egg-info/SOURCES.txt
 chemispy.egg-info/dependency_links.txt
 chemispy.egg-info/requires.txt
 chemispy.egg-info/top_level.txt
+chemispy/elements/hydrogen.py
+chemispy/elements/lithium.py
+chemispy/elements/potassium.py
+chemispy/elements/sodium.py
+chemispy/utils/atomic_number_query.py

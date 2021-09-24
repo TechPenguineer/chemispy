@@ -1,8 +1,8 @@
 Metadata-Version: 2.1
 Name: chemispy
-Version: 1.0.8
+Version: 1.1.0
 Summary: A library for using chemistry in python
-Home-page: https://github.com/TechPenguineer/chem.py
+Home-page: https://github.com/TechPenguineer/chemispy
 Author: Tech Penguineer
 Author-email: techpenguineer@gmail.com
 License: MIT
@@ -12,8 +12,8 @@ Classifier: Programming Language :: Python :: 3
 Classifier: Programming Language :: Python :: 3.7
 Description-Content-Type: text/markdown
 
-<p align="center" style="background=#333">
-    <img src="https://github.com/TechPenguineer/chem.py/blob/main/public/logo.png" width="300px">
+<p align="center" >
+    <img src="https://raw.githubusercontent.com/TechPenguineer/chem.py/main/public/logo.png" width="300px">
     <h1 align="center">Chemistry in python</h1>
 </p>
 
@@ -41,4 +41,11 @@ query.query_atomic_number(1)
 print(query.list_types())
 ```
 *Returns a list of all elements (Used mostly for debugging)*
+
+### Custom Elements
+```python
+from chemispy.utils.atomic_number_query import atomic_number_query
+
+atomic_number_query.elements.append("ELEMENT_119")
+```
 
