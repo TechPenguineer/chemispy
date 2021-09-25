@@ -25,7 +25,7 @@ setup(
     ],
     packages=["chemispy", "chemispy.elements", "chemispy.utils"],
     include_package_data=True,
-    install_requires=["PyQt5", "json"],
+    install_requires=["PyQt5", "json", "pathlib"],
     entry_points={
       
     },
