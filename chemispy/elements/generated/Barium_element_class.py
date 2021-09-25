@@ -1,0 +1,6 @@
+class Barium_element:
+	ATOMIC_NUMBER=55
+	ATOMIC_SYMBOL=''
+	NAME=''
+	ATOMIC_WEIGHT=
+	EPS=

@@ -1,0 +1,6 @@
+class Astatine_element:
+	ATOMIC_NUMBER=84
+	ATOMIC_SYMBOL=''
+	NAME=''
+	ATOMIC_WEIGHT=
+	EPS=

@@ -1,0 +1,6 @@
+class Chlorine_element:
+	ATOMIC_NUMBER=16
+	ATOMIC_SYMBOL=''
+	NAME=''
+	ATOMIC_WEIGHT=
+	EPS=

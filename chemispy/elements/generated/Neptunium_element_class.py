@@ -1,0 +1,6 @@
+class Neptunium_element:
+	ATOMIC_NUMBER=92
+	ATOMIC_SYMBOL=''
+	NAME=''
+	ATOMIC_WEIGHT=
+	EPS=

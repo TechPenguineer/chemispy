@@ -1,0 +1,6 @@
+class Selenium_element:
+	ATOMIC_NUMBER=33
+	ATOMIC_SYMBOL=''
+	NAME=''
+	ATOMIC_WEIGHT=
+	EPS=

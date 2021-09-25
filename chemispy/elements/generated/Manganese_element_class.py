@@ -1,0 +1,6 @@
+class Manganese_element:
+	ATOMIC_NUMBER=24
+	ATOMIC_SYMBOL=''
+	NAME=''
+	ATOMIC_WEIGHT=
+	EPS=

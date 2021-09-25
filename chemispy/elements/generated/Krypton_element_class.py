@@ -1,0 +1,6 @@
+class Krypton_element:
+	ATOMIC_NUMBER=35
+	ATOMIC_SYMBOL=''
+	NAME=''
+	ATOMIC_WEIGHT=
+	EPS=

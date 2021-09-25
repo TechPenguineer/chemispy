@@ -1,0 +1,6 @@
+class Tantalum_element:
+	ATOMIC_NUMBER=72
+	ATOMIC_SYMBOL=''
+	NAME=''
+	ATOMIC_WEIGHT=
+	EPS=

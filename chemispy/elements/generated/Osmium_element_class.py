@@ -1,0 +1,6 @@
+class Osmium_element:
+	ATOMIC_NUMBER=75
+	ATOMIC_SYMBOL=''
+	NAME=''
+	ATOMIC_WEIGHT=
+	EPS=

@@ -1,0 +1,6 @@
+class Indium_element:
+	ATOMIC_NUMBER=48
+	ATOMIC_SYMBOL=''
+	NAME=''
+	ATOMIC_WEIGHT=
+	EPS=

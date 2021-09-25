@@ -1,0 +1,6 @@
+class Cobalt_element:
+	ATOMIC_NUMBER=26
+	ATOMIC_SYMBOL=''
+	NAME=''
+	ATOMIC_WEIGHT=
+	EPS=

@@ -1,0 +1,6 @@
+class Unutrium_element:
+	ATOMIC_NUMBER=112
+	ATOMIC_SYMBOL=''
+	NAME=''
+	ATOMIC_WEIGHT=
+	EPS=

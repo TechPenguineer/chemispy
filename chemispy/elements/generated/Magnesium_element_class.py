@@ -1,0 +1,6 @@
+class Magnesium_element:
+	ATOMIC_NUMBER=11
+	ATOMIC_SYMBOL=''
+	NAME=''
+	ATOMIC_WEIGHT=
+	EPS=

@@ -1,0 +1,6 @@
+class Vanadium_element:
+	ATOMIC_NUMBER=22
+	ATOMIC_SYMBOL=''
+	NAME=''
+	ATOMIC_WEIGHT=
+	EPS=

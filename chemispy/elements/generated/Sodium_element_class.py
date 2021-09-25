@@ -1,0 +1,6 @@
+class Sodium_element:
+	ATOMIC_NUMBER=10
+	ATOMIC_SYMBOL=''
+	NAME=''
+	ATOMIC_WEIGHT=
+	EPS=

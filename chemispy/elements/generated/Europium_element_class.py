@@ -1,0 +1,6 @@
+class Europium_element:
+	ATOMIC_NUMBER=62
+	ATOMIC_SYMBOL=''
+	NAME=''
+	ATOMIC_WEIGHT=
+	EPS=

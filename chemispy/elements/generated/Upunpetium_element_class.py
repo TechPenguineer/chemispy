@@ -1,0 +1,6 @@
+class Upunpetium_element:
+	ATOMIC_NUMBER=114
+	ATOMIC_SYMBOL=''
+	NAME=''
+	ATOMIC_WEIGHT=
+	EPS=

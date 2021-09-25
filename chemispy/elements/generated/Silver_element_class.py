@@ -1,0 +1,6 @@
+class Silver_element:
+	ATOMIC_NUMBER=46
+	ATOMIC_SYMBOL=''
+	NAME=''
+	ATOMIC_WEIGHT=
+	EPS=

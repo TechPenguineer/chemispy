@@ -1,0 +1,6 @@
+class Francium_element:
+	ATOMIC_NUMBER=86
+	ATOMIC_SYMBOL=''
+	NAME=''
+	ATOMIC_WEIGHT=
+	EPS=

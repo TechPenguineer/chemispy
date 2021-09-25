@@ -1,0 +1,6 @@
+class Ytterbium_element:
+	ATOMIC_NUMBER=69
+	ATOMIC_SYMBOL=''
+	NAME=''
+	ATOMIC_WEIGHT=
+	EPS=

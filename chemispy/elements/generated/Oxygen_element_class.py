@@ -1,0 +1,6 @@
+class Oxygen_element:
+	ATOMIC_NUMBER=7
+	ATOMIC_SYMBOL=''
+	NAME=''
+	ATOMIC_WEIGHT=
+	EPS=

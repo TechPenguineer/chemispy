@@ -1,0 +1,6 @@
+class Ruthenium_element:
+	ATOMIC_NUMBER=43
+	ATOMIC_SYMBOL=''
+	NAME=''
+	ATOMIC_WEIGHT=
+	EPS=

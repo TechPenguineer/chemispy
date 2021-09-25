@@ -1,0 +1,6 @@
+class Bromine_element:
+	ATOMIC_NUMBER=34
+	ATOMIC_SYMBOL=''
+	NAME=''
+	ATOMIC_WEIGHT=
+	EPS=

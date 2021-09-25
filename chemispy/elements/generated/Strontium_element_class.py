@@ -1,0 +1,6 @@
+class Strontium_element:
+	ATOMIC_NUMBER=37
+	ATOMIC_SYMBOL=''
+	NAME=''
+	ATOMIC_WEIGHT=
+	EPS=

@@ -1,0 +1,6 @@
+class Neon_element:
+	ATOMIC_NUMBER=9
+	ATOMIC_SYMBOL=''
+	NAME=''
+	ATOMIC_WEIGHT=
+	EPS=

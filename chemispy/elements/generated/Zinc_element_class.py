@@ -1,0 +1,6 @@
+class Zinc_element:
+	ATOMIC_NUMBER=29
+	ATOMIC_SYMBOL=''
+	NAME=''
+	ATOMIC_WEIGHT=
+	EPS=

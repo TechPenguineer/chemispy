@@ -1,0 +1,6 @@
+class Palladium_element:
+	ATOMIC_NUMBER=45
+	ATOMIC_SYMBOL=''
+	NAME=''
+	ATOMIC_WEIGHT=
+	EPS=

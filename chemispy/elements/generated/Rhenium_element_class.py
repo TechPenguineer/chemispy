@@ -1,0 +1,6 @@
+class Rhenium_element:
+	ATOMIC_NUMBER=74
+	ATOMIC_SYMBOL=''
+	NAME=''
+	ATOMIC_WEIGHT=
+	EPS=

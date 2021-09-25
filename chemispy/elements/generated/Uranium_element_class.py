@@ -1,0 +1,6 @@
+class Uranium_element:
+	ATOMIC_NUMBER=91
+	ATOMIC_SYMBOL=''
+	NAME=''
+	ATOMIC_WEIGHT=
+	EPS=

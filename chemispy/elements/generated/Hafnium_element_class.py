@@ -1,0 +1,6 @@
+class Hafnium_element:
+	ATOMIC_NUMBER=71
+	ATOMIC_SYMBOL=''
+	NAME=''
+	ATOMIC_WEIGHT=
+	EPS=

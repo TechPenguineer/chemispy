@@ -1,0 +1,6 @@
+class Titanium_element:
+	ATOMIC_NUMBER=21
+	ATOMIC_SYMBOL=''
+	NAME=''
+	ATOMIC_WEIGHT=
+	EPS=

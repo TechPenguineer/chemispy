@@ -1,0 +1,6 @@
+class Tin_element:
+	ATOMIC_NUMBER=49
+	ATOMIC_SYMBOL=''
+	NAME=''
+	ATOMIC_WEIGHT=
+	EPS=

@@ -1,0 +1,6 @@
+class Scandium_element:
+	ATOMIC_NUMBER=20
+	ATOMIC_SYMBOL=''
+	NAME=''
+	ATOMIC_WEIGHT=
+	EPS=

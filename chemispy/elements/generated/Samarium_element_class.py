@@ -1,0 +1,6 @@
+class Samarium_element:
+	ATOMIC_NUMBER=61
+	ATOMIC_SYMBOL=''
+	NAME=''
+	ATOMIC_WEIGHT=
+	EPS=

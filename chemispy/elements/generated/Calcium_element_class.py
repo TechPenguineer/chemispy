@@ -1,0 +1,6 @@
+class Calcium_element:
+	ATOMIC_NUMBER=19
+	ATOMIC_SYMBOL=''
+	NAME=''
+	ATOMIC_WEIGHT=
+	EPS=

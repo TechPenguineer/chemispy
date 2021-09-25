@@ -1,0 +1,6 @@
+class Carbon_element:
+	ATOMIC_NUMBER=5
+	ATOMIC_SYMBOL=''
+	NAME=''
+	ATOMIC_WEIGHT=
+	EPS=

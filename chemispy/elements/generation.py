@@ -123,6 +123,9 @@ elements=[
               "Ununocium"
               ]
 
-
+ci = 0
 for x in elements:
-    open(path.curdir+"/chemispy/elements/generated/"+x+"_element_class.py", "w+")
+    ci=ci+1
+    item_index = x.index(x)
+    f = open(path.curdir+"/chemispy/elements/generated/"+x+"_element_class.py", "w+")
+    f.write("class " + x+"_element:\n\tATOMIC_NUMBER="+str( elements.index(x) )+"\n\tATOMIC_SYMBOL=''\n\tNAME=''\n\tATOMIC_WEIGHT=\n\tEPS=")

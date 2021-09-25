@@ -1,0 +1,6 @@
+class Thallium_element:
+	ATOMIC_NUMBER=80
+	ATOMIC_SYMBOL=''
+	NAME=''
+	ATOMIC_WEIGHT=
+	EPS=

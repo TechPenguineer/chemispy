@@ -1,0 +1,6 @@
+class Mercury_element:
+	ATOMIC_NUMBER=79
+	ATOMIC_SYMBOL=''
+	NAME=''
+	ATOMIC_WEIGHT=
+	EPS=

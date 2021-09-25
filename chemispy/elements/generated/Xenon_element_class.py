@@ -1,0 +1,6 @@
+class Xenon_element:
+	ATOMIC_NUMBER=53
+	ATOMIC_SYMBOL=''
+	NAME=''
+	ATOMIC_WEIGHT=
+	EPS=

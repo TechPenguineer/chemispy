@@ -1,0 +1,6 @@
+class Actinium_element:
+	ATOMIC_NUMBER=88
+	ATOMIC_SYMBOL=''
+	NAME=''
+	ATOMIC_WEIGHT=
+	EPS=

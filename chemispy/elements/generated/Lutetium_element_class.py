@@ -1,0 +1,6 @@
+class Lutetium_element:
+	ATOMIC_NUMBER=70
+	ATOMIC_SYMBOL=''
+	NAME=''
+	ATOMIC_WEIGHT=
+	EPS=

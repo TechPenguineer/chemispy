@@ -1,0 +1,6 @@
+class Lithium_element:
+	ATOMIC_NUMBER=2
+	ATOMIC_SYMBOL=''
+	NAME=''
+	ATOMIC_WEIGHT=
+	EPS=

@@ -1,0 +1,6 @@
+class Thorium_element:
+	ATOMIC_NUMBER=89
+	ATOMIC_SYMBOL=''
+	NAME=''
+	ATOMIC_WEIGHT=
+	EPS=

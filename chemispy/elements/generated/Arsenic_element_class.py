@@ -1,0 +1,6 @@
+class Arsenic_element:
+	ATOMIC_NUMBER=32
+	ATOMIC_SYMBOL=''
+	NAME=''
+	ATOMIC_WEIGHT=
+	EPS=

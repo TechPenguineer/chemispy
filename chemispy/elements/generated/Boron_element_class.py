@@ -1,0 +1,6 @@
+class Boron_element:
+	ATOMIC_NUMBER=4
+	ATOMIC_SYMBOL=''
+	NAME=''
+	ATOMIC_WEIGHT=
+	EPS=

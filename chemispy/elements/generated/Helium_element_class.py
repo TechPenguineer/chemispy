@@ -1,0 +1,6 @@
+class Helium_element:
+	ATOMIC_NUMBER=1
+	ATOMIC_SYMBOL=''
+	NAME=''
+	ATOMIC_WEIGHT=
+	EPS=

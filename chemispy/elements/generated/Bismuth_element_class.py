@@ -1,0 +1,6 @@
+class Bismuth_element:
+	ATOMIC_NUMBER=82
+	ATOMIC_SYMBOL=''
+	NAME=''
+	ATOMIC_WEIGHT=
+	EPS=

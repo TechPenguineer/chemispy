@@ -1,0 +1,6 @@
+class Hassium_element:
+	ATOMIC_NUMBER=107
+	ATOMIC_SYMBOL=''
+	NAME=''
+	ATOMIC_WEIGHT=
+	EPS=

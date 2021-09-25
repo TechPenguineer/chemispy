@@ -1,0 +1,6 @@
+class Lanthanum_element:
+	ATOMIC_NUMBER=56
+	ATOMIC_SYMBOL=''
+	NAME=''
+	ATOMIC_WEIGHT=
+	EPS=

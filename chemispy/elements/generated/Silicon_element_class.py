@@ -1,0 +1,6 @@
+class Silicon_element:
+	ATOMIC_NUMBER=13
+	ATOMIC_SYMBOL=''
+	NAME=''
+	ATOMIC_WEIGHT=
+	EPS=

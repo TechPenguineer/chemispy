@@ -1,0 +1,6 @@
+class Zirconium_element:
+	ATOMIC_NUMBER=39
+	ATOMIC_SYMBOL=''
+	NAME=''
+	ATOMIC_WEIGHT=
+	EPS=

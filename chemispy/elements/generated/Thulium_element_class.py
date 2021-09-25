@@ -1,0 +1,6 @@
+class Thulium_element:
+	ATOMIC_NUMBER=68
+	ATOMIC_SYMBOL=''
+	NAME=''
+	ATOMIC_WEIGHT=
+	EPS=

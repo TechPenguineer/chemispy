@@ -1,0 +1,6 @@
+class Antimony_element:
+	ATOMIC_NUMBER=50
+	ATOMIC_SYMBOL=''
+	NAME=''
+	ATOMIC_WEIGHT=
+	EPS=

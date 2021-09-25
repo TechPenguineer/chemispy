@@ -1,0 +1,6 @@
+class Erbium_element:
+	ATOMIC_NUMBER=67
+	ATOMIC_SYMBOL=''
+	NAME=''
+	ATOMIC_WEIGHT=
+	EPS=

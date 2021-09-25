@@ -1,0 +1,6 @@
+class Yttrium_element:
+	ATOMIC_NUMBER=38
+	ATOMIC_SYMBOL=''
+	NAME=''
+	ATOMIC_WEIGHT=
+	EPS=

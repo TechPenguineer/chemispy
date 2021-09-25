@@ -1,0 +1,6 @@
+class Dubnium_element:
+	ATOMIC_NUMBER=104
+	ATOMIC_SYMBOL=''
+	NAME=''
+	ATOMIC_WEIGHT=
+	EPS=
