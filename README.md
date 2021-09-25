@@ -3,6 +3,11 @@
     <h1 align="center">Chemistry in python</h1>
 </p>
 
+
+# Resources Used
+*The following items are not made by me! Click the words to go to the original source*<br><br>
+
+**[Periodic Tab Json](https://github.com/Bowserinator/Periodic-Table-JSON/blob/master/PeriodicTableJSON.json)**  -> Used in -> **[periodic_table.json](periodic_table.json)**
 # Installation
 ```bat
 pip install chemispy
